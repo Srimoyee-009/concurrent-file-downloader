@@ -1,0 +1,22 @@
+image_url_list = [
+    "https://picsum.photos/200/300",
+    "https://picsum.photos/300/300",
+    "https://picsum.photos/400/300",
+    "https://picsum.photos/500/300",
+    "https://picsum.photos/600/300",
+    "https://picsum.photos/700/300",
+    "https://picsum.photos/800/300",
+    "https://picsum.photos/200/400",
+    "https://picsum.photos/300/400",
+    "https://picsum.photos/400/400",
+    "https://picsum.photos/500/400",
+    "https://picsum.photos/600/400",
+    "https://picsum.photos/700/400",
+    "https://picsum.photos/800/400",
+    "https://picsum.photos/200/500",
+    "https://picsum.photos/300/500",
+    "https://picsum.photos/400/500",
+    "https://picsum.photos/500/500",
+    "https://picsum.photos/600/500",
+    "https://picsum.photos/700/500"
+]
