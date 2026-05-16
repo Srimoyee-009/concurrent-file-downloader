@@ -1,8 +1,8 @@
- Concurrent Bulk File Downloader
+# Concurrent Bulk File Downloader
 
 A high-performance Python-based file downloader that uses multithreading to download multiple files concurrently and compare performance against sequential downloading.
 
-Features:
+## Features:
 
 - Concurrent image downloading using multithreading
 - Sequential vs concurrent performance comparison
@@ -11,7 +11,7 @@ Features:
 - Logging support for successful and failed downloads
 - Execution time benchmarking
 
-Technologies Used
+## Technologies Used
 
 - Python
 - Multithreading
@@ -19,7 +19,7 @@ Technologies Used
 - File Handling
 - Logging
 
-Project Structure
+## Project Structure
 
 concurrent-file-downloader/
 │
@@ -31,7 +31,7 @@ concurrent-file-downloader/
 │
 └── Downloads/
 
-How to Run
+## How to Run
 
 1. Install dependencies
 
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 python downloader.py
 
-Output
+## Output
 
 The program:
 
@@ -50,7 +50,7 @@ The program:
 - Compares execution time between both methods
 - Stores downloaded files inside the Downloads folder
 
-Concepts Demonstrated
+## Concepts Demonstrated
 
 - Multithreading
 - Concurrency
